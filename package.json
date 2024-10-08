@@ -11,6 +11,12 @@
   "description": "",
   "devDependencies": {
     "jest": "^29.7.0",
-    "jsdom": "^24.1.1"
+    "jsdom": "^24.1.1",
+    "jest-junit": "^16.0.0"
+  },
+  "jest": {
+    "reporters": [
+      "jest-junit"
+    ]
   }
 }

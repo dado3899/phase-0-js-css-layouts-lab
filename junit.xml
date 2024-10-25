@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="8" failures="0" errors="0" time="0.434">
+  <testsuite name="CSS Lab Tests" errors="0" failures="0" skipped="0" timestamp="2024-10-25T16:46:30" time="0.416" tests="8">
+    <testcase classname="CSS Lab Tests should link the CSS file" name="CSS Lab Tests should link the CSS file" time="0.003">
+    </testcase>
+    <testcase classname="CSS Lab Tests Cat breed container should have correct styles" name="CSS Lab Tests Cat breed container should have correct styles" time="0.002">
+    </testcase>
+    <testcase classname="CSS Lab Tests Cat breed cards should have correct styles" name="CSS Lab Tests Cat breed cards should have correct styles" time="0.002">
+    </testcase>
+    <testcase classname="CSS Lab Tests Cat breed cards should have hover effect" name="CSS Lab Tests Cat breed cards should have hover effect" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Cat breed cards images should have correct styles" name="CSS Lab Tests Cat breed cards images should have correct styles" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Cat breed cards headings should have correct styles" name="CSS Lab Tests Cat breed cards headings should have correct styles" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Cat breed cards paragraphs should have correct styles" name="CSS Lab Tests Cat breed cards paragraphs should have correct styles" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Responsive layout should have responsive styles" name="CSS Lab Tests Responsive layout should have responsive styles" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
